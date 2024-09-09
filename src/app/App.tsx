@@ -7,7 +7,7 @@ import Contact from './pages/Contact';
 import EducationPage from './pages/EducationPage';
 import Footer from './components/Footer';
 import WhatsAppButton from './components/WhatsAppButton';
-import GlobalStyle from './styles/GlobalStyle';
+import GlobalStyle from '../styles/GlobalStyle';
 
 const App: React.FC = () => {
   return (
